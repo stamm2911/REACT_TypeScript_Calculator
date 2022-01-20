@@ -1,4 +1,3 @@
-* {
-  background-color: grey;
-  color:green
+body {
+  background: linear-gradient(to bottom right, #FF9482, #7D77FF) fixed;
 }
